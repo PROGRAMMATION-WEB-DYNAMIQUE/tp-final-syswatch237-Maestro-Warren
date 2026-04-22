@@ -17,7 +17,7 @@ fn machines() -> HashMap<String, String> {
     // format : "nom_affichage" => "ip"
     m.insert("PC-01-warren".to_string(), "192.168.0.219".to_string());
     m.insert("PC-02-anne".to_string(), "192.168.0.154".to_string());
-    m.insert("PC-03-NZEUTEM".to_string(), "192.168.1.103".to_string());
+    m.insert("PC-03-Ronyl".to_string(), "192.168.0.103".to_string());
     m.insert("ateba".to_string(), "192.168.1.105".to_string());
     // Ajouter autant de lignes que d'étudiants
     m
