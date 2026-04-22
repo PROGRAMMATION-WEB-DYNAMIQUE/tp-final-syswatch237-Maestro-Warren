@@ -18,7 +18,7 @@ fn machines() -> HashMap<String, String> {
     m.insert("gambi".to_string(), "192.168.0.219".to_string());
     m.insert("anne".to_string(), "192.168.0.154".to_string());
     m.insert("smile".to_string(), "192.168.0.103".to_string());
-    m.insert("adolphe".to_string(), "192.168.1.150".to_string());
+    m.insert("ado".to_string(), "192.168.1.150".to_string());
     // Ajouter autant de lignes que d'étudiants
     m
 }
